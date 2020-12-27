@@ -1,0 +1,56 @@
+.tab-group{
+    padding-top:40px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.lives{
+    padding: 2%;
+}
+
+.lives > div{
+    margin: 0.5%;
+}
+
+.mat-card-live{
+    border: 1px solid #CFD8DC;
+    border-radius: 4px, 3px, 6px / 2px 4px;
+    padding-top:15px;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+    margin:5px;
+}
+
+.mat-card-title-live{
+    padding-left:10px;
+    padding-top:0px;
+    padding-right:15px;
+    padding-bottom:0px;
+    min-height: 70px;
+}
+
+.mat-card-title-live > p {
+    font-size:0.9rem
+}
+
+.spinner{
+    
+    /* margin:0 auto; */
+    /* margin-left: 45%;
+    max-width: 50px;
+    max-height: 50px;
+    position: fixed; */
+    position: fixed;
+  z-index: 999;
+  height: 2em;
+  width: 2em;
+  overflow: show;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+
+}
