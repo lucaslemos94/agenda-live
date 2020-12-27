@@ -12,4 +12,4 @@ Na agenda há uma listagem de lives que estão programadas para acontecer e live
   
 # Como executar o projeto
 Para o front-end: Com o Angular CLI e o gerenciador de pacotes npm instalados na máquina, execute os comando ```npm install``` e ```ng serve```.  
-Para o back-end: Com o Spring Boot e MongoDB instalados na máquina, crie um novo banco de dados chamado ```live-database``` e execute o projeto. Caso queira usar outro banco, modifique as credenciais de acesso no arquivo application.properties.
+Para o back-end: Com o Spring Boot e MongoDB instalados na máquina, crie um novo banco de dados chamado ```live-database``` e execute o projeto. Caso queira usar outro banco, modifique as credenciais de acesso no arquivo ```application.properties```.
